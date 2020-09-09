@@ -37,7 +37,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
-    "country-region-data": "^1.6.0",
+    "country-region-data": "https://github.com/userlab-luisdeleon/country-region-data",
     "cross-env": "^5.1.4",
     "enzyme": "^3.6.0",
     "enzyme-adapter-react-16": "^1.5.0",
